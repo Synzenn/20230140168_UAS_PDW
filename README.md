@@ -30,7 +30,7 @@ Halaman Manajemen Modul (CRUD)
 ![image](https://github.com/user-attachments/assets/e20652fe-1496-41eb-a961-31d49ae51d02)
 ![image](https://github.com/user-attachments/assets/0ec26fd4-771a-4973-9acb-1c1e81d437d3)
 
-Menambah Modul
+Menambah Modul(Memberikan Materi dalam bentuk pdf)
 ![image](https://github.com/user-attachments/assets/931a4a18-c22c-4ac6-9ba7-bc73455c7888)
 ![image](https://github.com/user-attachments/assets/3a2975b3-e95d-4559-92be-fea984f24064)
 
@@ -59,7 +59,6 @@ Memberikan Nilai ke tugas mahasiswa
 ![image](https://github.com/user-attachments/assets/d190032a-b0fc-4ea7-a822-28b639e23b76)
 ![image](https://github.com/user-attachments/assets/00e98873-8696-49fc-a79e-6cc00b0b0413)
 
-
 Halaman Kelola Penggunna (CRUD)
 ![image](https://github.com/user-attachments/assets/5b5e211b-8e8f-4e8b-a9f6-7034e5d0fc09)
 
@@ -74,6 +73,7 @@ Mengedit Pengguna
 Menghapus Pengguna(Kiseki no Sedai)
 ![image](https://github.com/user-attachments/assets/5f42b12b-c74c-49bd-b2ca-d5d66e8a1e9d)
 ![image](https://github.com/user-attachments/assets/b7abd8f4-70e1-4d7a-ba09-211e0f4d0051)
+
 
 
 
